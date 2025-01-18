@@ -28,7 +28,7 @@ twitter_username: vin1992_
 github_username:  vin1992
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 
