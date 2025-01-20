@@ -20,10 +20,10 @@
 
 title: My Little Blog
 email: vincoder1992@gmail.com
-description: >- This is my little blog where I write about cool stuff. 欢迎来到我的小博客，这里有我写的一些有趣的东西。
+description: This is my little blog where I write about cool stuff. 欢迎来到我的小博客，这里有我写的一些有趣的东西。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vin1992.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ____
+twitter_username: AlanWake3368
 github_username:  vin1992
 
 # Build settings
