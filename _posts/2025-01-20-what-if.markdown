@@ -6,3 +6,6 @@ categories: test
 ---
 What If
 What If I was an American President?
+
+my assignment in my graphic course
+![A city under water](/assets/images/city.png)
