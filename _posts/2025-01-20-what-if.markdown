@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "What If"
+title:  "The city under the water"
 date:   2025-01-20 19:52:58 -0000
 categories: test
 ---
-What If
-What If I was an American President?
 
 my assignment in my graphic course
 ![A city under water](/assets/images/city.png)
